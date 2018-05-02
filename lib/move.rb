@@ -11,5 +11,5 @@ def input_to_index(next_move)
   return next_move.to_i - 1
 end
 
-def move()
+def move(board, index, value)
 end
