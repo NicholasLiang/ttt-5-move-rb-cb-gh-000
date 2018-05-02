@@ -2,6 +2,8 @@
 
 require_relative '../lib/move.rb'
 
+# variable 
+
 # Code your CLI Here
 puts "Welcome to Tic Tac Toe!"
 puts "Where would you like to go?"
