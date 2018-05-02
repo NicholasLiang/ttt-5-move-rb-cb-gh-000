@@ -11,6 +11,7 @@ def input_to_index(next_move)
   return next_move.to_i - 1
 end
 
-def move(board, index, value = "X")
+def move(board, position, value = "X")
   position = input_to_index(index)
+  
 end
